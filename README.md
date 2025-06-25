@@ -1,2 +1,1 @@
-# DC-Electronic-Load-based
-Firmware for a 100W DC Electronic Load based on STM32F405 and LVGL (Keil MDK Project).
+Firmware for a 100W DC Electronic Load based on STM32F405 and LVGL (Keil MDK Project). Implements Constant Current (CC) mode, a modern GUI, and smart temperature control for a PC cooler. Designed for developers looking to replicate the project or learn embedded GUI & power control.
