@@ -1,0 +1,12 @@
+desktop\lv_font.o: ..\GUI\lvgl\src\lv_font\lv_font.c
+desktop\lv_font.o: ..\GUI\lvgl\src\lv_font\lv_font.h
+desktop\lv_font.o: ..\GUI\lv_conf.h
+desktop\lv_font.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+desktop\lv_font.o: ..\GUI\lvgl/src/lv_conf_checker.h
+desktop\lv_font.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+desktop\lv_font.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+desktop\lv_font.o: ..\GUI\lvgl\src\lv_font\lv_symbol_def.h
+desktop\lv_font.o: ..\GUI\lv_conf.h
+desktop\lv_font.o: ..\GUI\lvgl\src\lv_font\../lv_misc/lv_utils.h
+desktop\lv_font.o: ..\GUI\lvgl\src\lv_font\../lv_misc/lv_log.h
+desktop\lv_font.o: ..\GUI\lv_conf.h

@@ -1,0 +1,14 @@
+desktop\lv_async.o: ..\GUI\lvgl\src\lv_misc\lv_async.c
+desktop\lv_async.o: ..\GUI\lvgl\src\lv_misc\lv_async.h
+desktop\lv_async.o: ..\GUI\lvgl\src\lv_misc\lv_task.h
+desktop\lv_async.o: ..\GUI\lv_conf.h
+desktop\lv_async.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+desktop\lv_async.o: ..\GUI\lvgl/src/lv_conf_checker.h
+desktop\lv_async.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+desktop\lv_async.o: ..\GUI\lvgl\src\lv_misc\lv_mem.h
+desktop\lv_async.o: ..\GUI\lv_conf.h
+desktop\lv_async.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+desktop\lv_async.o: ..\GUI\lvgl\src\lv_misc\lv_log.h
+desktop\lv_async.o: ..\GUI\lv_conf.h
+desktop\lv_async.o: ..\GUI\lvgl\src\lv_misc\lv_ll.h
+desktop\lv_async.o: ..\GUI\lvgl\src\lv_misc\lv_types.h

@@ -1,0 +1,13 @@
+desktop\lv_tlsf.o: ..\GUI\src\misc\lv_tlsf.c
+desktop\lv_tlsf.o: ..\GUI\src\misc\../lv_conf_internal.h
+desktop\lv_tlsf.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+desktop\lv_tlsf.o: ..\GUI\src\misc\../lv_conf_kconfig.h
+desktop\lv_tlsf.o: ..\GUI\lv_conf.h
+desktop\lv_tlsf.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+desktop\lv_tlsf.o: ..\GUI\src\misc\lv_tlsf.h
+desktop\lv_tlsf.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+desktop\lv_tlsf.o: ..\GUI\src\misc\lv_mem.h
+desktop\lv_tlsf.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+desktop\lv_tlsf.o: ..\GUI\src\misc\lv_types.h
+desktop\lv_tlsf.o: ..\GUI\src\misc\lv_log.h
+desktop\lv_tlsf.o: ..\GUI\src\misc\lv_assert.h
